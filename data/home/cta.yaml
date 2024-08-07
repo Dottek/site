@@ -1,0 +1,10 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Почни свій бізнес зараз!"
+  image: "images/services-web-development.png"
+  button:
+    label: "Звязок"
+    url: "#"
+  
